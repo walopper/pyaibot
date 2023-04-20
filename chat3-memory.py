@@ -20,3 +20,4 @@ while True:
     messages.append({ "role": "assistant", "content": response.choices[0].message.content })
 
     print(response.choices[0].message.content)
+    
