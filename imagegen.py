@@ -13,6 +13,9 @@ def imageFromPromp(prompt: str):
     return result.data
 
 
+def mapUrl(item):
+    return item.url
+
 
 prompt = input("Enter images generation prompt >>> ")
 

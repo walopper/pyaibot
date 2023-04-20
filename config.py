@@ -1,2 +1,2 @@
-api_key = "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"
+api_key = "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"
 model_engine = "text-davinci-003"
